@@ -1,0 +1,779 @@
+Arauca	Arauca	7.088	-70.758
+Arauca	Arauquita	7.029	-71.429
+Arauca	Cravo Norte	6.304	-70.203
+Arauca	Fortul	6.794	-71.772
+Arauca	Puerto Rondón	6.281	-71.105
+Arauca	Saravena	6.956	-71.873
+Arauca	Tame	6.455	-71.746
+Vichada	Cumarimbo	4.444	-69.799
+Vichada	La Primavera	5.489	-70.409
+Vichada	Puerto Carreño	6.184	-67.488
+Vichada	Santa Rosalía	5.135	-70.865
+Casanare	Aguazul	5.171	-72.551
+Casanare	Chámeza	5.213	-72.870
+Casanare	Hato Corozal	6.155	-71.762
+Casanare	La Salina	6.128	-72.334
+Casanare	Maní	4.817	-72.281
+Casanare	Monterrey	4.875	-72.893
+Casanare	Nunchía	5.638	-72.196
+Casanare	Orocué	4.789	-71.340
+Casanare	Paz de Ariporo	5.88	-71.893
+Casanare	Pore	5.726	-71.994
+Casanare	Recetor	5.229	-72.761
+Casanare	Sabanalarga	4.854	-73.039
+Casanare	Sácama	6.099	-72.248
+Casanare	San Luis de Palenque	5.42	-71.731
+Casanare	Támara	5.83	-72.163
+Casanare	Tauramena	5.01	-72.571
+Casanare	Trinidad	5.4	-71.661
+Casanare	Villanueva	4.611	-72.928
+Casanare	Yopal	5.335	-72.395
+Cundinamarca	Chocontá	5.147	-73.686
+Cundinamarca	Machetá	5.081	-73.608
+Cundinamarca	Manta	5.009	-73.540
+Cundinamarca	Sesquilé	5.045	-73.797
+Cundinamarca	Suesca	5.104	-73.799
+Cundinamarca	Tibirita	5.052	-73.505
+Cundinamarca	Villapinzón	5.215	-73.595
+Cundinamarca	Agua de Dios	4.376	-74.670
+Cundinamarca	Girardot	4.304	-74.803
+Cundinamarca	Guataquí	4.517	-74.790
+Cundinamarca	Jerusalén	4.563	-74.693
+Cundinamarca	Nariño	4.398	-74.829
+Cundinamarca	Nilo	4.307	-74.620
+Cundinamarca	Ricaurte	4.276	-74.772
+Cundinamarca	Tocaima	4.456	-74.634
+Cundinamarca	Caparrapí	5.345	-74.491
+Cundinamarca	Guaduas	5.066	-74.595
+Cundinamarca	Puerto Salgar	5.467	-74.653
+Cundinamarca	Albán	4.876	-74.438
+Cundinamarca	La Peña	5.2	-74.393
+Cundinamarca	La Vega	5	-74.339
+Cundinamarca	Nimaima	5.126	-74.386
+Cundinamarca	Nocaima	5.069	-74.380
+Cundinamarca	Quebradanegra	5.118	-74.479
+Cundinamarca	San Francisco	4.974	-74.291
+Cundinamarca	Sasaima	4.964	-74.434
+Cundinamarca	Supatá	5.061	-74.236
+Cundinamarca	Útica	5.188	-74.481
+Cundinamarca	Vergara	5.118	-74.345
+Cundinamarca	Villeta	5.012	-74.469
+Cundinamarca	Gachalá	4.693	-73.520
+Cundinamarca	Gachetá	4.817	-73.636
+Cundinamarca	Gama	4.762	-73.610
+Cundinamarca	Guasca	4.867	-73.877
+Cundinamarca	Guatavita	4.934	-73.834
+Cundinamarca	Junín	4.791	-73.663
+Cundinamarca	La Calera	4.7203	-73.969
+Cundinamarca	Ubalá	4.743	-73.535
+Cundinamarca	Beltrán	4.801	-74.474
+Cundinamarca	Bituima	4.872	-74.540
+Cundinamarca	Chaguaní	4.949	-74.594
+Cundinamarca	Guayabal de Síquima	4.878	-74.467
+Cundinamarca	Pulí	4.682	-74.714
+Cundinamarca	San Juan de Rioseco	4.847	-74.622
+Cundinamarca	Vianí	4.876	-74.561
+Cundinamarca	Medina	4.508	-73.350
+Cundinamarca	Paratebueno	4.376	-73.210
+Cundinamarca	Cáqueza	4.405	-73.947
+Cundinamarca	Chipaque	4.442	-74.045
+Cundinamarca	Choachí	4.528	-73.923
+Cundinamarca	Fómeque	4.487	-73.895
+Cundinamarca	Fosca	4.339	-73.939
+Cundinamarca	Guayabetal	4.215	-73.815
+Cundinamarca	Gutiérrez	4.255	-74.003
+Cundinamarca	Quetame	4.33	-73.863
+Cundinamarca	Ubaque	4.483	-73.935
+Cundinamarca	Une	4.402	-74.025
+Cundinamarca	El Peñón	5.249	-74.290
+Cundinamarca	La Palma	5.358	-74.391
+Cundinamarca	Pacho	5.137	-74.153
+Cundinamarca	Paime	5.371	-74.153
+Cundinamarca	San Cayetano	5.301	-74.070
+Cundinamarca	Topaipí	5.334	-74.301
+Cundinamarca	Villagómez	5.273	-74.195
+Cundinamarca	Yacopí	5.46	-74.339
+Cundinamarca	Cajicá	4.917	-74.025
+Cundinamarca	Chía	4.86	-74.059
+Cundinamarca	Cogua	5.061	-73.977
+Cundinamarca	Gachancipá	4.992	-73.871
+Cundinamarca	Nemocón	5.067	-73.881
+Cundinamarca	Sopó	4.908	-73.941
+Cundinamarca	Tabio	4.917	-74.096
+Cundinamarca	Tenjo	4.871	-74.146
+Cundinamarca	Tocancipá	4.965	-73.911
+Cundinamarca	Zipaquirá	5.02	-73.991
+Cundinamarca	Bojacá	4.733	-74.342
+Cundinamarca	Cota	4.809	-74.103
+Cundinamarca	El Rosal	4.852	-74.265
+Cundinamarca	Facatativá	4.809	-74.354
+Cundinamarca	Funza	4.716	-74.211
+Cundinamarca	Madrid	4.733	-74.263
+Cundinamarca	Mosquera	4.704	-74.230
+Cundinamarca	Subachoque	4.929	-74.173
+Cundinamarca	Zipacón	4.76	-74.380
+Cundinamarca	Sibaté	4.483	-74.259
+Cundinamarca	Soacha	4.582	-74.212
+Cundinamarca	Arbeláez	4.273	-74.416
+Cundinamarca	Cabrera	3.985	-74.484
+Cundinamarca	Fusagasugá	4.344	-74.362
+Cundinamarca	Granada	4.52	-74.351
+Cundinamarca	Pandi	4.191	-74.487
+Cundinamarca	Pasca	4.308	-74.300
+Cundinamarca	San Bernardo	4.179	-74.422
+Cundinamarca	Silvania	4.403	-74.389
+Cundinamarca	Tibacuy	4.348	-74.453
+Cundinamarca	Venecia	4.089	-74.478
+Cundinamarca	Anapoima	4.548	-74.535
+Cundinamarca	Anolaima	4.761	-74.464
+Cundinamarca	Apulo	4.52	-74.460
+Cundinamarca	Cachipay	4.731	-74.437
+Cundinamarca	El Colegio	4.582	-74.445
+Cundinamarca	La Mesa	4.631	-74.463
+Cundinamarca	Quipile	4.744	-74.534
+Cundinamarca	S. Ant. del Tequendama	4.616	-74.352
+Cundinamarca	Tena	4.655	-74.390
+Cundinamarca	Viotá	4.438	-74.522
+Cundinamarca	Carmen de Carupa	5.349	-73.901
+Cundinamarca	Cucunubá	5.25	-73.767
+Cundinamarca	Fúquene	5.404	-73.796
+Cundinamarca	Guachetá	5.384	-73.687
+Cundinamarca	Lenguazaque	5.307	-73.712
+Cundinamarca	Simijaca	5.503	-73.852
+Cundinamarca	Susa	5.453	-73.814
+Cundinamarca	Sutatusa	5.247	-73.853
+Cundinamarca	Tausa	5.196	-73.887
+Cundinamarca	Ubaté	5.312	-73.818
+Bogotá D.C.	Usaquén	4.772	-74.029
+Bogotá D.C.	Usaquén	4.718	-74.031
+Bogotá D.C.	Chapinero	4.645	-74.043
+Bogotá D.C.	Santa Fé	4.593	-74.085
+Bogotá D.C.	Santa Fé	4.598	-74.081
+Bogotá D.C.	Santa Fé	4.613	-74.064
+Bogotá D.C.	Santa Fé	4.586	-74.074
+Bogotá D.C.	Santa Fé	4.593	-74.037
+Bogotá D.C.	San Cristobal	4.54	-74.055
+Bogotá D.C.	San Cristobal	4.555	-74.087
+Bogotá D.C.	Usme	4.499	-74.102
+Bogotá D.C.	Usme	4.439	-74.125
+Bogotá D.C.	Tunjuelito	4.556	-74.127
+Bogotá D.C.	Tunjuelito	4.58	-74.136
+Bogotá D.C.	Bosa	4.623	-74.199
+Bogotá D.C.	Kennedy	4.632	-74.153
+Bogotá D.C.	Fontibón	4.676	-74.140
+Bogotá D.C.	Engativá	4.705	-74.112
+Bogotá D.C.	Suba	4.741	-74.048
+Bogotá D.C.	Suba	4.796	-74.063
+Bogotá D.C.	Barrios Unidos	4.67	-74.075
+Bogotá D.C.	Teusaquillo	4.64	-74.090
+Bogotá D.C.	Los Mártires	4.606	-74.088
+Bogotá D.C.	Antonio Nariño	4.59	-74.099
+Bogotá D.C.	Antonio Nariño	4.593	-74.114
+Bogotá D.C.	Puente Aranda	4.617	-74.112
+Bogotá D.C.	La Candelaria	4.596	-74.073
+Bogotá D.C.	Rafael Uribe Uribe	4.568	-74.117
+Bogotá D.C.	Ciudad Bolívar	4.559	-74.160
+Bogotá D.C.	Ciudad Bolívar	4.51	-74.155
+Bogotá D.C.	Sumapaz	4.088	-74.214
+Meta	Acacías	3.991	-73.766
+Meta	Barranca de Upía	4.57	-72.964
+Meta	Cabuyaro	4.284	-72.792
+Meta	Castilla la Nueva	3.827	-73.690
+Meta	Cubarral	3.794	-73.841
+Meta	Cumaral	4.271	-73.488
+Meta	El Calvario	4.352	-73.713
+Meta	El Dorado	3.74	-73.836
+Meta	Fuente de Oro	3.462	-73.620
+Meta	Granada	3.543	-73.705
+Meta	Guamal	3.88	-73.770
+Meta	La Macarena	2.182	-73.786
+Meta	La Uribe	3.241	-74.355
+Meta	Lejanías	3.526	-74.024
+Meta	Mapiripán	2.892	-72.133
+Meta	Mesetas	3.385	-74.043
+Meta	Puerto Concordia	2.624	-72.761
+Meta	Puerto Gaitán	4.313	-72.084
+Meta	Puerto Lleras	3.272	-73.370
+Meta	Puerto López	4.091	-72.956
+Meta	Puerto Rico	2.941	-73.207
+Meta	Restrepo	4.263	-73.563
+Meta	San Carlos de Guaroa	3.71	-73.242
+Meta	San Juan de Arama	3.371	-73.875
+Meta	San Juanito	4.458	-73.676
+Meta	San Martín	3.698	-73.697
+Meta	Villavicencio	4.14	-73.624
+Meta	Vista Hermosa	3.127	-73.752
+Huila	Aipe	3.222	-75.241
+Huila	Algeciras	2.524	-75.316
+Huila	Baraya	3.151	-75.054
+Huila	Campoalegre	2.685	-75.327
+Huila	Colombia	3.376	-74.802
+Huila	Hobo	2.584	-75.451
+Huila	Íquira	2.649	-75.634
+Huila	Neiva	2.933	-75.281
+Huila	Palermo	2.886	-75.433
+Huila	Rivera	2.778	-75.259
+Huila	Santa María	2.939	-75.586
+Huila	Tello	3.067	-75.138
+Huila	Teruel	2.741	-75.568
+Huila	Villavieja	3.218	-75.217
+Huila	Yaguará	2.665	-75.518
+Huila	Agrado	2.261	-75.771
+Huila	Altamira	2.062	-75.788
+Huila	Garzón	2.195	-75.627
+Huila	Gigante	2.388	-75.547
+Huila	Guadalupe	2.025	-75.759
+Huila	Pital	2.265	-75.806
+Huila	Suarza	1.977	-75.795
+Huila	Tarqui	2.113	-75.825
+Huila	La Argentina	2.198	-75.979
+Huila	La Plata	2.389	-75.894
+Huila	Nátaga	2.546	-75.809
+Huila	Paicol	2.449	-75.773
+Huila	Tesalia	2.487	-75.730
+Huila	Acevedo	1.806	-75.890
+Huila	Elías	2.014	-75.937
+Huila	Isnos	1.93	-76.215
+Huila	Oporapa	2.026	-75.995
+Huila	Palestina	1.724	-76.133
+Huila	Pitalito	1.851	-76.049
+Huila	Saladoblanco	1.992	-76.044
+Huila	San Agustín	1.879	-76.267
+Huila	Timaná	1.974	-75.933
+Caquetá	Albania	1.329	-75.878
+Caquetá	Belén de los Andaquies	1.414	-75.873
+Caquetá	Cartagena del Chairá	1.334	-74.843
+Caquetá	Curillo	1.034	-75.921
+Caquetá	El Doncello	1.679	-75.283
+Caquetá	El Paujil	1.571	-75.327
+Caquetá	Florencia	1.614	-75.604
+Caquetá	La Montañita	1.479	-75.437
+Caquetá	Morelia	1.485	-75.723
+Caquetá	Puerto Milán	1.291	-75.508
+Caquetá	Puerto Rico	1.91	-75.157
+Caquetá	San José del Fragua	1.331	-75.974
+Caquetá	San Vicente del Caguán	2.114	-74.769
+Caquetá	Solano	0.699	-75.255
+Caquetá	Solta	0.88	-75.621
+Caquetá	Valparaíso	1.195	-75.705
+Guaviare	Calamar	1.96	-72.654
+Guaviare	El Retorno	2.332	-72.628
+Guaviare	Miraflores	1.337	-71.951
+Guaviare	San José del Guaviare	2.568	-72.642
+Guainía	Barrancominas	3.484	-69.811
+Guainía	Cacahual	3.526	-67.413
+Guainía	Inírida	3.868	-67.924
+Guainía	La Guadalupe	1.247	-66.865
+Guainía	Mapiripana	2.81	-70.479
+Guainía	Morichal Nuevo	2.264	-79.918
+Guainía	Pana Pana	1.864	-76.009
+Guainía	Puerto Colombia	2.72	-67.564
+Guainía	San Felipe	1.917	-67.076
+Vaupés	Carurú	1.012	-71.296
+Vaupés	Mitú	1.251	-70.234
+Vaupés	Pacoa	0.053	-71.223
+Vaupés	Papunaua	1.944	-70.541
+Vaupés	Taraira	-0.565	-69.634
+Vaupés	Yavaraté	0.609	-69.203
+Amazonas	El Encanto	-1.747	-73.209
+Amazonas	La Chorrera	-1.443	-72.789
+Amazonas	La Pedrera	-1.324	-69.582
+Amazonas	La Victoria	0.06	-71.232
+Amazonas	Leticia	-4.205	-69.936
+Amazonas	Mirití-Paraná	-1.206	-69.888
+Amazonas	Puerto Alegría	-1.006	-74.014
+Amazonas	Puerto Arica	-2.149	-71.755
+Amazonas	Puerto Nariño	-3.765	-70.391
+Amazonas	Puerto Santander	-0.625	-72.386
+Amazonas	Tarapacá	-2.891	-69.741
+Putumayo	Colón	1.19	-76.973
+Putumayo	Mocoa	1.152	-76.651
+Putumayo	Orito	0.676	-76.880
+Putumayo	Puerto Asís	0.504	-76.500
+Putumayo	Puerto Caicedo	0.684	-76.604
+Putumayo	Puerto Guzmán	0.963	-76.408
+Putumayo	Puerto Leguízamo	-0.192	-74.783
+Putumayo	San Francisco	1.175	-76.880
+Putumayo	San Miguel	0.344	-76.912
+Putumayo	Santiago	1.147	-77.004
+Putumayo	Sibundoy	1.203	-76.918
+Putumayo	Valle del Guamuez	0.423	-76.904
+Putumayo	Villagarzón	1.028	-76.617
+Nariño	Barbacoas	1.671	-78.141
+Nariño	El Charco	2.479	-78.110
+Nariño	Francisco Pizarro	2.04	-78.658
+Nariño	La Tola	2.399	-78.190
+Nariño	Magüí Payán	1.765	-78.182
+Nariño	Mosquera	2.509	-78.451
+Nariño	Olaya Herrera	2.348	-78.324
+Nariño	Roberto Payán	1.696	-78.244
+Nariño	Santa Bárbara	2.45	-77.980
+Nariño	Tumaco	1.787	-78.791
+Nariño	Aldana	0.882	-77.700
+Nariño	Contadero	0.911	-77.550
+Nariño	Córdoba	0.853	-77.518
+Nariño	Cuaspud	0.863	-77.728
+Nariño	Cumbal	0.908	-77.791
+Nariño	Funes	1.001	-77.449
+Nariño	Guachucal	0.962	-77.731
+Nariño	Gualmatán	0.92	-77.566
+Nariño	Iles	0.97	-77.520
+Nariño	Ipiales	0.824	-77.640
+Nariño	Potosí	0.807	-77.573
+Nariño	Puerres	0.883	-77.504
+Nariño	Pupiales	0.871	-77.642
+Nariño	Albán	1.474	-77.081
+Nariño	Arboleda	1.504	-77.136
+Nariño	Belén	1.596	-77.016
+Nariño	Colón	1.643	-77.019
+Nariño	El Rosario	1.743	-77.335
+Nariño	El Tablón de Gómez	1.427	-77.097
+Nariño	La Cruz	1.6	-76.971
+Nariño	La Unión	1.604	-77.131
+Nariño	Leiva	1.935	-77.306
+Nariño	Policarpa	1.628	-77.460
+Nariño	San Bernardo	1.514	-77.047
+Nariño	San Lorenzo	1.503	-77.215
+Nariño	San Pablo	1.669	-77.013
+Nariño	San Pedro de Cartago	1.552	-77.120
+Nariño	Taminango	1.57	-77.281
+Nariño	Buesaco	1.384	-77.156
+Nariño	Chachagüí	1.36	-77.283
+Nariño	Consacá	1.208	-77.466
+Nariño	El Peñol	1.453	-77.440
+Nariño	El Tambo	1.408	-77.392
+Nariño	La Florida	1.299	-77.404
+Nariño	Nariño	1.289	-77.358
+Nariño	Pasto	1.21	-77.285
+Nariño	Sandoná	1.287	-77.472
+Nariño	Tangua	1.094	-77.394
+Nariño	Yacuanquer	1.116	-77.402
+Nariño	Ancuya	1.263	-77.515
+Nariño	Cumbitara	1.675	-77.330
+Nariño	Guaitarilla	1.13	-77.551
+Nariño	Imués	1.055	-77.496
+Nariño	La Llanada	1.473	-77.580
+Nariño	Linares	1.473	-77.580
+Nariño	Los Andes	1.494	-77.521
+Nariño	Mallama	1.141	-77.865
+Nariño	Ospina	1.058	-77.566
+Nariño	Providencia	1.239	-77.597
+Nariño	Ricaurte	1.211	-77.994
+Nariño	Samaniego	1.335	-77.590
+Nariño	Santacruz	1.222	-77.677
+Nariño	Sapuyes	1.037	-77.621
+Nariño	Túquerres	1.088	-77.619
+Cauca	Buenos Aires	3.013	-76.644
+Cauca	Caloto	3.033	-76.408
+Cauca	Corinto	3.174	-76.259
+Cauca	Guachené	3.133	-76.394
+Cauca	Miranda	3.251	-76.229
+Cauca	Padilla	3.224	-76.313
+Cauca	Puerto Tejada	3.23	-76.420
+Cauca	Santander de Quilichao	3.008	-76.486
+Cauca	Suárez	2.954	-76.695
+Cauca	Villa Rica	3.175	-76.461
+Cauca	Cajibío	2.622	-76.570
+Cauca	El Tambo	2.45	-76.810
+Cauca	La Sierra	2.178	-76.762
+Cauca	Morales	2.754	-76.628
+Cauca	Piendamó	2.644	-76.531
+Cauca	Popayán	2.443	-76.615
+Cauca	Rosas	2.262	-76.471
+Cauca	Sotará	2.254	-76.615
+Cauca	Timbío	2.352	-76.683
+Cauca	Almaguer	1.914	-76.855
+Cauca	Argelia	2.255	-77.249
+Cauca	Balboa	2.041	-77.217
+Cauca	Bolívar	1.836	-76.967
+Cauca	Florencia	1.683	-77.073
+Cauca	La Vega	2	-76.777
+Cauca	Mercaderes	1.796	-77.164
+Cauca	Patía	2.069	-77.053
+Cauca	Piamonte	1.118	-76.326
+Cauca	San Sebastián	1.838	-76.771
+Cauca	Santa Rosa	1.701	-76.573
+Cauca	Sucre	2.038	-76.925
+Cauca	Guapí	2.571	-77.886
+Cauca	Lopez de Micay	2.846	-77.248
+Cauca	Timbiquí	2.777	-77.668
+Cauca	Isla Gorgona. Guapí	2.968	-78.184
+Cauca	Caldono	2.796	-76.486
+Cauca	Inzá	2.551	-76.065
+Cauca	Jambaló	2.778	-76.324
+Cauca	Páez	2.646	-75.972
+Cauca	Puracé	2.343	-76.496
+Cauca	Silvia	2.611	-76.379
+Cauca	Toribío	2.956	-76.270
+Cauca	Totoró	2.51	-76.402
+Tolima	Alvarado	4.566	-74.953
+Tolima	Anzoátegui	4.632	-75.094
+Tolima	Cajamarca	4.441	-75.427
+Tolima	Coello	4.286	-74.898
+Tolima	Espinal	4.149	-74.886
+Tolima	Flandes	4.286	-74.812
+Tolima	Ibagué	4.438	-75.205
+Tolima	Piedras	4.543	-74.878
+Tolima	Rovira	4.239	-75.240
+Tolima	San Luis	4.133	-75.095
+Tolima	Valle de San Juan	4.198	-75.116
+Tolima	Casablanca	5.079	-75.121
+Tolima	Herveo	5.08	-75.176
+Tolima	Lérida	4.864	-74.916
+Tolima	Líbano	4.922	-75.065
+Tolima	Murillo	4.874	-75.171
+Tolima	Santa Isabel	4.713	-75.098
+Tolima	Venadillo	4.719	-74.929
+Tolima	Villahermosa	5.031	-75.117
+Tolima	Ambalema	4.782	-74.765
+Tolima	Ruinas de Armero	4.964	-74.905
+Tolima	Armero Guayabal	5.032	-74.884
+Tolima	Falan	5.124	-74.951
+Tolima	Fresno	5.153	-75.036
+Tolima	Honda	5.204	-74.737
+Tolima	Mariquita	5.198	-74.984
+Tolima	Palocabildo	5.119	-75.024
+Tolima	Carmen de Apicalá	4.148	-74.719
+Tolima	Cunday	4.061	-74.692
+Tolima	Icononzo	4.716	-74.532
+Tolima	Melgar	4.203	-74.643
+Tolima	Villarica	3.937	-74.601
+Tolima	Ataco	3.591	-75.383
+Tolima	Chaparral	3.723	-75.484
+Tolima	Coyaima	3.799	-75.195
+Tolima	Natagaima	3.622	-75.095
+Tolima	Ortega	3.935	-75.221
+Tolima	Planadas	3.195	-75.646
+Tolima	Rioblanco	3.53	-75.645
+Tolima	Roncesvalles	4.01	-75.605
+Tolima	San Antonio	3.914	-75.480
+Tolima	Alpujarra	3.392	-74.933
+Tolima	Dolores	3.539	-74.897
+Tolima	Guamo	4.032	-74.971
+Tolima	Prado	3.751	-74.930
+Tolima	Purificación	3.856	-74.932
+Tolima	Saldaña	3.932	-75.017
+Tolima	Suárez	4.048	-74.833
+Quindío	Armenia	4.533	-75.676
+Quindío	Buenavista	4.36	-75.738
+Quindío	Calarcá	4.529	-75.641
+Quindío	Circasia	4.62	-75.634
+Quindío	Córdoba	4.391	-75.687
+Quindío	Filandia	4.675	-75.657
+Quindío	Génova	4.208	-75.789
+Quindío	La Tebaida	4.452	-75.787
+Quindío	Montenegro	4.567	-75.751
+Quindío	Pijao	4.336	-75.702
+Quindío	Quimbaya	4.624	-75.763
+Quindío	Salento	4.637	-75.571
+Valle del Cauca	Alcalá	4.675	-75.783
+Valle del Cauca	Andalucía	4.168	-76.168
+Valle del Cauca	Ansermanuevo	4.796	-75.995
+Valle del Cauca	Argelia	4.728	-76.122
+Valle del Cauca	Bolívar	4.339	-76.185
+Valle del Cauca	Buenaventura	3.882	-77.020
+Valle del Cauca	Buga	3.901	-76.298
+Valle del Cauca	Bugalagrande	4.211	-76.156
+Valle del Cauca	Caicedonia	4.333	-75.827
+Valle del Cauca	Cali	3.435	-76.518
+Valle del Cauca	Calima - El Darién	3.931	-76.485
+Valle del Cauca	Candelaria	3.409	-76.347
+Valle del Cauca	Cartago	4.746	-75.912
+Valle del Cauca	Dagua	3.658	-76.691
+Valle del Cauca	El Águila	4.909	-76.041
+Valle del Cauca	El Cairo	4.761	-76.222
+Valle del Cauca	El Cerrito	3.684	-76.313
+Valle del Cauca	El Dovio	4.509	-76.236
+Valle del Cauca	Florida	3.321	-76.235
+Valle del Cauca	Ginebra	3.725	-76.268
+Valle del Cauca	Guacarí	3.764	-76.335
+Valle del Cauca	Jamundí	3.261	-76.541
+Valle del Cauca	La Cumbre	3.65	-76.569
+Valle del Cauca	La Unión	4.533	-76.104
+Valle del Cauca	La Victoria	4.523	-76.036
+Valle del Cauca	Obando	4.576	-75.974
+Valle del Cauca	Palmira	3.533	-76.298
+Valle del Cauca	Pradera	3.419	-76.242
+Valle del Cauca	Restrepo	3.821	-76.522
+Valle del Cauca	Riofrío	4.157	-70.288
+Valle del Cauca	Roldanillo	4.411	-76.153
+Valle del Cauca	San Pedro	3.994	-76.227
+Valle del Cauca	Sevilla	4.266	-75.932
+Valle del Cauca	Toro	4.61	-76.079
+Valle del Cauca	Trujillo	4.212	-76.319
+Valle del Cauca	Tuluá	4.088	-76.198
+Valle del Cauca	Ulloa	4.702	-75.737
+Valle del Cauca	Versalles	4.575	-76.199
+Valle del Cauca	Vijes	3.699	-76.442
+Valle del Cauca	Yotoco	3.861	-76.383
+Valle del Cauca	Yumbo	3.581	-76.493
+Valle del Cauca	Zarzal	4.394	-76.073
+Chocó	Acandí	8.51	-77.279
+Chocó	Alto Baudó	5.516	-76.975
+Chocó	Atrato	5.531	-76.636
+Chocó	Bagadó	5.411	-76.416
+Chocó	Bahía Solano	6.222	-77.403
+Chocó	Bajo Baudó	4.953	-77.366
+Chocó	Bojayá	6.523	-76.974
+Chocó	Cértegui	5.371	-76.605
+Chocó	Condoto	5.09	-76.652
+Chocó	El Cantón de San Pablo	5.336	-76.728
+Chocó	El Carmen de Atrato	5.9	-76.142
+Chocó	El Carmen de Darién	7.136	-76.992
+Chocó	El Litoral de San Juan	4.263	-77.366
+Chocó	Itsmina	5.157	-76.688
+Chocó	Juradó	7.104	-77.764
+Chocó	Lloró	5.504	-76.531
+Chocó	Medio Atrato	6.003	-76.781
+Chocó	Medio Baudó	5.052	-77.050
+Chocó	Medio San Juan	5.0974	-76.697
+Chocó	Nóvita	4.956	-76.607
+Chocó	Nuquí	5.71	-77.267
+Chocó	Quibdó	5.696	-76.650
+Chocó	Rio Iró	5.185	-76.472
+Chocó	Rio Quito	5.483	-76.740
+Chocó	Riosucio	7.438	-77.115
+Chocó	San José del Palmar	4.897	-76.234
+Chocó	Sipí	4.653	-76.644
+Chocó	Tadó	5.265	-76.559
+Chocó	Unguía	8.043	-77.093
+Chocó	Unión Panamericana	5.281	-76.630
+Risaralda	Apía	5.281	-76.630
+Risaralda	Balboa	4.95	-75.958
+Risaralda	Belén de Umbría	5.2	-75.869
+Risaralda	Dosquebradas	4.831	-75.681
+Risaralda	Guática	5.316	-75.799
+Risaralda	La Celia	5.003	-76.003
+Risaralda	La Virginia	4.9	-75.882
+Risaralda	Marsella	4.937	-75.738
+Risaralda	Mistrató	5.297	-75.882
+Risaralda	Pereira	4.808	-75.691
+Risaralda	Pueblo Rico	5.222	-76.031
+Risaralda	Quinchía	5.34	-75.731
+Risaralda	Santa Rosa de Cabal	4.869	-75.622
+Risaralda	Santuario	5.074	-75.964
+Caldas	Filadelfia	5.298	-75.562
+Caldas	La Merced	5.399	-75.547
+Caldas	Marmato	5.475	-75.601
+Caldas	Riosucio	5.421	-75.705
+Caldas	Supía	5.456	-75.651
+Caldas	Manzanares	5.254	-75.155
+Caldas	Marquetalia	5.297	-75.054
+Caldas	Marulanda	5.284	-75.260
+Caldas	Pensilvania	5.382	-75.161
+Caldas	Anserma	5.235	-75.786
+Caldas	Belalcázar	4.995	-75.805
+Caldas	Risaralda	5.166	-75.766
+Caldas	San José	5.081	-75.792
+Caldas	Viterbo	5.062	-75.872
+Caldas	Chinchiná	4.983	-75.606
+Caldas	Manizales	5.063	-75.507
+Caldas	Neira	5.167	-75.520
+Caldas	Palestina	5.02	-75.623
+Caldas	Villamaría	5.044	-75.515
+Caldas	La Dorada	5.473	-74.668
+Caldas	Norcasia	5.575	-74.888
+Caldas	Samaná	5.413	-74.992
+Caldas	Victoria	5.314	-74.912
+Caldas	Aguadas	5.612	-75.457
+Caldas	Aranzazu	5.271	-75.491
+Caldas	Pácora	5.528	-75.460
+Caldas	Salamina	5.408	-75.488
+Boyacá	Chíquiza	5.605	-73.486
+Boyacá	Chivatá	5.558	-73.283
+Boyacá	Cómbita	5.634	-73.324
+Boyacá	Cucaita	5.544	-73.455
+Boyacá	Motavita	5.577	-73.368
+Boyacá	Oicatá	5.595	-73.308
+Boyacá	Samacá	5.492	-73.486
+Boyacá	Siachoque	5.512	-73.245
+Boyacá	Sora	5.566	-73.450
+Boyacá	Soracá	5.501	-73.333
+Boyacá	Sotaquirá	5.766	-73.428
+Boyacá	Toca	5.566	-73.185
+Boyacá	Tunja	5.543	-73.357
+Boyacá	Tuta	5.691	-73.226
+Boyacá	Ventaquemada	5.366	-73.522
+Boyacá	Chiscas	6.553	-72.500
+Boyacá	El Cocuy	6.408	-72.445
+Boyacá	El Espino	6.483	-72.496
+Boyacá	Guacamayas	6.459	-72.501
+Boyacá	Güicán	6.463	-72.412
+Boyacá	Panqueba	6.443	-72.459
+Boyacá	Labranzagrande	5.563	-72.578
+Boyacá	Pajarito	5.293	-72.703
+Boyacá	Paya	5.625	-72.424
+Boyacá	Pisba	5.723	-72.485
+Boyacá	Berbeo	5.228	-73.127
+Boyacá	Campohermoso	5.031	-73.104
+Boyacá	Miraflores	5.196	-73.145
+Boyacá	Páez	5.101	-73.052
+Boyacá	San Eduardo	5.224	-73.078
+Boyacá	Zetaquirá	5.283	-73.170
+Boyacá	Boyacá	5.454	-73.363
+Boyacá	Ciénega	5.409	-73.296
+Boyacá	Jenesano	5.385	-73.364
+Boyacá	Nuevo Colón	5.355	-73.457
+Boyacá	Ramiriquí	5.402	-73.336
+Boyacá	Rondón	5.357	-73.209
+Boyacá	Tibaná	5.318	-73.397
+Boyacá	Tumerqué	5.324	-73.492
+Boyacá	Úmbita	5.221	-73.457
+Boyacá	Viracachá	5.437	-73.297
+Boyacá	Chinavita	5.168	-73.369
+Boyacá	Garagoa	5.082	-73.365
+Boyacá	Macanal	4.972	-73.320
+Boyacá	Pachavita	5.14	-73.397
+Boyacá	San Luis de Gaceno	4.82	-73.169
+Boyacá	Santa María	4.86	-73.263
+Boyacá	Boavita	6.331	-72.586
+Boyacá	Covarachía	6.5	-72.739
+Boyacá	La Uvita	6.314	-72.560
+Boyacá	San Mateo	6.402	-72.556
+Boyacá	Sativanorte	6.131	-72.708
+Boyacá	Sativasur	6.093	-72.713
+Boyacá	Soatá	6.333	-72.683
+Boyacá	Susacón	6.23	-72.690
+Boyacá	Tipacoque	6.421	-72.692
+Boyacá	Briceño	5.691	-73.923
+Boyacá	Buenavista	5.511	-73.942
+Boyacá	Caldas	5.555	-73.865
+Boyacá	Chiquinquirá	5.614	-73.820
+Boyacá	Coper	5.475	-74.046
+Boyacá	La Victoria	5.523	-74.235
+Boyacá	Maripí	5.5	-74.005
+Boyacá	Otanche	5.658	-74.181
+Boyacá	Pauna	5.656	-73.979
+Boyacá	Quípama	5.519	-74.179
+Boyacá	Saboyá	5.698	-73.765
+Boyacá	San Miguel de Sema	5.518	-73.722
+Boyacá	San Pablo de Borbur	5.652	-74.070
+Boyacá	Tununguá	5.73	-73.933
+Boyacá	Almeida	4.971	-73.379
+Boyacá	Chivor	4.888	-73.368
+Boyacá	Guateque	5.006	-73.473
+Boyacá	Guayatá	4.965	-70.490
+Boyacá	La Capilla	5.096	-73.445
+Boyacá	Somondonco	4.986	-73.433
+Boyacá	Sutatenza	5.023	-73.452
+Boyacá	Tenza	5.077	-73.422
+Boyacá	Arcabuco	5.755	-73.437
+Boyacá	Chitaraque	6.028	-73.447
+Boyacá	Gachantivá	5.752	-73.549
+Boyacá	Moniquirá	5.875	-70.574
+Boyacá	Ráquira	5.538	-73.633
+Boyacá	Sáchica	5.584	-73.542
+Boyacá	San José de Pare	6.018	-73.548
+Boyacá	Santa Sofía	5.713	-73.603
+Boyacá	Santana	6.057	-73.482
+Boyacá	Sutamarchan	5.62	-73.621
+Boyacá	Tinjacá	5.58	-73.647
+Boyacá	Togüí	5.938	-73.513
+Boyacá	Villa de Leyva	5.634	-73.524
+Boyacá	Aquitania	5.518	-72.883
+Boyacá	Cuitiva	5.58	-72.966
+Boyacá	Firatoba	5.669	-72.993
+Boyacá	Gámeza	5.802	-72.806
+Boyacá	Iza	5.612	-72.979
+Boyacá	Mongua	5.753	-72.799
+Boyacá	Monguí	5.723	-72.489
+Boyacá	Nobsa	5.77	-72.941
+Boyacá	Pesca	5.589	-73.051
+Boyacá	Sogamoso	5.716	-72.931
+Boyacá	Tibasosa	5.747	-73.000
+Boyacá	Tópaga	5.768	-72.833
+Boyacá	Tota	5.561	-72.986
+Boyacá	Belén	5.99	-72.912
+Boyacá	Busbanzá	5.83	-72.884
+Boyacá	Cerinza	5.956	-72.948
+Boyacá	Corrales	5.829	-72.845
+Boyacá	Duitama	5.821	-73.031
+Boyacá	Floresta	5.86	-72.919
+Boyacá	Paipa	5.781	-73.118
+Boyacá	Santa Rosa de Viterbo	5.874	-72.982
+Boyacá	Tutazá	6.032	-72.856
+Boyacá	Betéitiva	5.911	-72.809
+Boyacá	Chita	6.187	-72.473
+Boyacá	Jericó	6.146	-72.571
+Boyacá	Paz del Rio	5.985	-72.749
+Boyacá	Socha	5.997	-72.692
+Boyacá	Socotá	6.041	-72.637
+Boyacá	Tasco	5.911	-72.781
+Boyacá	Cubará	7.001	-72.109
+Boyacá	Puerto Boyacá	5.976	-74.588
+Norte de Santander	Arboledas	7.643	-72.799
+Norte de Santander	Cucutilla	7.539	-72.773
+Norte de Santander	Gramalote	7.888	-72.798
+Norte de Santander	Lourdes	7.945	-72.833
+Norte de Santander	Salazar de Palmas	7.774	-72.812
+Norte de Santander	Santiago	7.865	-72.717
+Norte de Santander	Villa Caro	7.914	-72.973
+Norte de Santander	Cúcuta	7.888	-72.496
+Norte de Santander	El Zulia	7.937	-72.605
+Norte de Santander	Los Patios	7.834	-72.505
+Norte de Santander	Puerto Santander	8.361	-72.409
+Norte de Santander	San Cayetano	7.878	-72.625
+Norte de Santander	Villa del Rosario	7.834	-72.475
+Norte de Santander	Bucarasica	8.041	-72.868
+Norte de Santander	El Tarra	2.575	-73.095
+Norte de Santander	Sardinata	8.084	-72.801
+Norte de Santander	Tibú	8.642	-72.738
+Norte de Santander	Abrego	8.082	-73.221
+Norte de Santander	Cáchira	7.741	-73.049
+Norte de Santander	Convención	8.469	-73.338
+Norte de Santander	El Carmen	8.511	-73.447
+Norte de Santander	Hacarí	8.321	-73.146
+Norte de Santander	La Esperanza	7.639	-73.328
+Norte de Santander	La Playa de Belén	8.213	-73.238
+Norte de Santander	Ocaña	8.248	-73.357
+Norte de Santander	San Calixto	8.403	-73.209
+Norte de Santander	Teorama	8.436	-73.287
+Norte de Santander	Cácota	7.268	-72.641
+Norte de Santander	Chitagá	7.139	-72.665
+Norte de Santander	Mutiscua	7.301	-72.747
+Norte de Santander	Pamplona	7.378	-72.649
+Norte de Santander	Pamplonita	7.437	-72.638
+Norte de Santander	S. Domingo Silos	7.204	-72.757
+Norte de Santander	Bochalema	7.612	-72.647
+Norte de Santander	Chinácota	7.606	-72.601
+Norte de Santander	Durania	7.714	-72.657
+Norte de Santander	Herrán	7.501	-72.483
+Norte de Santander	Labateca	7.299	-72.496
+Norte de Santander	Ragonvalia	7.578	-72.476
+Norte de Santander	Toledo	7.309	-72.483
+Santander	Aguada	6.169	-73.522
+Santander	Albania	5.756	-73.914
+Santander	Aratoca	6.695	-73.019
+Santander	Barbosa	5.933	-73.615
+Santander	Barichara	6.636	-73.223
+Santander	Barrancabermeja	7.067	-73.854
+Santander	Betulia	6.899	-73.284
+Santander	Bolívar	5.99	-73.771
+Santander	Bucaramanga	7.123	-73.119
+Santander	Cabrera	6.594	-73.244
+Santander	California	7.347	-72.946
+Santander	Capitanejo	6.528	-72.696
+Santander	Carcasí	6.628	-72.627
+Santander	Cepitá	6.754	-72.972
+Santander	Cerrito	8.839	-72.697
+Santander	Charalá	6.286	-73.148
+Santander	Charta	7.281	-72.968
+Santander	Chima	6.344	-73.374
+Santander	Chipatá	6.063	-73.637
+Santander	Cimitarra	6.319	-73.950
+Santander	Concepción	6.768	-72.695
+Santander	Confines	6.356	-73.241
+Santander	Contratación	6.29	-73.474
+Santander	Coromoro	6.295	-73.041
+Santander	Curutí	6.605	-73.068
+Santander	El Carmen del Chucurí	6.698	-73.511
+Santander	El Guacamayo	6.246	-73.497
+Santander	El Peñón	6.055	-73.815
+Santander	El Playón	7.471	-73.203
+Santander	Encino	6.138	-73.099
+Santander	Enciso	6.668	-72.700
+Santander	Florián	5.803	-73.971
+Santander	Floridablaca	7.072	-73.100
+Santander	Galán	6.639	-73.287
+Santander	Gámbita	5.946	-73.344
+Santander	Girón	7.068	-73.169

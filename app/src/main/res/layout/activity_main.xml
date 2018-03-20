@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context="com.example.android.colweather.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/tags"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Clima" />
+
+                <RadioGroup
+                    android:id="@+id/radioWeather"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="selectorClima">
+
+                    <RadioButton
+                        android:id="@+id/sunny"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Soleado"
+                        android:onClick="selectorClima"
+                        app:buttonTint="#ffffff" />
+
+                    <RadioButton
+                        android:id="@+id/cloudy"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:inputType="numberDecimal"
+                        android:onClick="selectorClima"
+                        android:text="P. Nublado"
+                        app:buttonTint="#ffffff" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <EditText
+                            android:id="@+id/cloudiness"
+                            android:layout_width="48dp"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text=""
+                            android:inputType="numberDecimal"
+                            android:textColor="#ffffff"
+                            android:textColorHint="#B0B0B0" />
+
+                        <TextView
+                            style="@style/tags"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="% Nubosidad"
+                            android:textSize="14sp" />
+
+                    </LinearLayout>
+
+                    <CheckBox
+                        android:id="@+id/sunCheck"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:onClick="sunCheck"
+                        android:layout_height="wrap_content"
+                        android:text="Sol"
+                        app:buttonTint="#ffffff" />
+
+                    <RadioButton
+                        android:id="@+id/clouds"
+                        android:onClick="selectorClima"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Nublado"
+                        app:buttonTint="#ffffff" />
+
+                    <RadioButton
+                        android:id="@+id/clouds2"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:onClick="selectorClima"
+                        android:layout_height="wrap_content"
+                        android:text="Muy Nublado"
+                        app:buttonTint="#ffffff" />
+
+                    <RadioButton
+                        android:id="@+id/clouds3"
+                        style="@style/radios"
+                        android:onClick="selectorClima"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Nubarrones"
+                        app:buttonTint="#ffffff" />
+
+                </RadioGroup>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    style="@style/tags"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Lluvia" />
+
+                <RadioGroup
+                    android:id="@+id/radioRain"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:onClick="selectorLluvia">
+
+                    <RadioButton
+                        android:id="@+id/rain0"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Sin lluvia"
+                        android:onClick="selectorLluvia"
+                        app:buttonTint="#ffffff" />
+
+                    <RadioButton
+                        android:id="@+id/rain1"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="selectorLluvia"
+                        android:text="Llovizna"
+                        app:buttonTint="#ffffff" />
+
+                    <RadioButton
+                        android:id="@+id/rain2"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:onClick="selectorLluvia"
+                        android:text="Lluvia"
+                        app:buttonTint="#ffffff" />
+
+                    <RadioButton
+                        android:id="@+id/rain3"
+                        style="@style/radios"
+                        android:onClick="selectorLluvia"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Tormenta"
+                        app:buttonTint="#ffffff" />
+
+                </RadioGroup>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/tags"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Lugar mas cercano" />
+
+            <TextView
+                android:id="@+id/place"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Lugar"
+                android:textColor="#ffffff"
+                android:textSize="20dp" />
+
+            <TextView
+                style="@style/tags"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Temperatura" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <RadioGroup
+                    android:id="@+id/radioScale"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:onClick="selectorEscala"
+                    android:paddingRight="15dp">
+
+                    <RadioButton
+                        android:id="@+id/celsius"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="°C"
+                        app:buttonTint="#ffffff" />
+
+                    <RadioButton
+                        android:id="@+id/fahrenheit"
+                        style="@style/radios"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="°F"
+                        app:buttonTint="#ffffff" />
+
+                </RadioGroup>
+
+                <TextView
+                    android:id="@+id/temperature"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:gravity="center"
+                    android:onClick="viewStations"
+                    android:padding="15dp"
+                    android:text="-- °C"
+                    android:textColor="#000000"
+                    android:textSize="24dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20px"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Altitud"
+                        android:layout_gravity="center"
+                        android:textColor="@android:color/white"/>
+                    <TextView
+                        android:id="@+id/elevation"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="----"
+                        android:layout_gravity="center"
+                        android:textSize="24dp"
+                        android:textColor="@android:color/white"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
