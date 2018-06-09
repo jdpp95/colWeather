@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
     public Estacion[] nearestS;
     public double temperatura;
     public boolean esDeDia, dayCycle;
+    public double[] weights;
 
     RadioGroup clima, lluvia, escala;
     TextView textLugar, textTemperatura, textAltitud;
@@ -82,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
 
         loadPlaces();
         nearestS = new Estacion[3];
+        weights = new double[3];
 
         Timer timer = new Timer();
         TimerTask timerTask = new TimerTask() {
@@ -104,10 +106,10 @@ public class MainActivity extends AppCompatActivity {
                         updateTime();
 
                         /*hora = 22 + 48/60.0 + 33/3600.0;
-                        latitud = 11.0357;
-                        longitud = -74.8602;
-                        altitud = 2;
-                        */
+                        latitud = 5.804;
+                        longitud = -73.04;
+                        altitud = 2491;*/
+
 
                         if (seconds == 0) nearestC = nearestCity(); // Updates place every 10 seconds
                         else if (seconds == 5) nearestS = nearestStations();
@@ -121,32 +123,47 @@ public class MainActivity extends AppCompatActivity {
                             textLugar.setText(nearestC.toString()); //Set text for place
 
                             //tsnm[0,1,2] = values, tsnm[3] = weighted average
-                            double weights[] = new double[3];
-                            double weightSum = 0;
+                            //weights = new double[3];
+                            double weightsDist[] = new double[3];
+                            double weightsAlt[] = new double[3];
+                            double altDiff[] = new double[3];
+
+                            double weightsDistSum = 0, weightsAltSum = 0;
                             for (int i = 0; i < 3; i++) {
                                 float results[] = new float[3];
                                 if (nearestS[i] != null) {
                                     temp[i][0] = nearestS[i].getTemperatura() + nearestS[i].getAltitud() / 180;
                                     temp[i][1] = nearestS[i].getOsD();
                                     temp[i][2] = nearestS[i].getOsN();
+
                                     Location.distanceBetween(latitud, longitud, nearestS[i].getLatitud(), nearestS[i].getLongitud(), results);
-                                    weights[i] = 1 / results[0];
-                                    weightSum += weights[i];
+                                    weightsDist[i] = 1 / results[0]; // 1/Dist
+                                    weightsDistSum += weightsDist[i];
+
+                                    altDiff[i] = Math.abs(altitud - nearestS[i].getAltitud());
+                                    weightsAlt[i] = 1 / altDiff[i];
+                                    weightsAltSum += weightsAlt[i];
                                 }
                             }
 
-                            for(int i=0;i<3;i++)
-                                temp[3][i] = 0;
+                            for(int i=0;i<3;i++) {
+                                weights[i] = (weightsAlt[i]/weightsAltSum + weightsDist[i]/weightsDistSum)/2;
+                                //temp[3][i] = 0;
+                            }
 
                             //Normalize weights
+
                             for (int i = 0; i < 3; i++) {
+                                /*
                                 if (weightSum > 0)
                                     weights[i] /= weightSum;
+                                    */
 
                                 //Log.v("Distance to " + nearestS[i], formatNumber(weights[i] * 100, 0) + "% from "+ estaciones.size() +" stations.");
                                 for(int j=0;j<3;j++)
                                     temp[3][j] += temp[i][j] * weights[i];
                             }
+
 
                             //Log.v("\n ","");
 
@@ -225,8 +242,10 @@ public class MainActivity extends AppCompatActivity {
         String text = "";
         //Estacion[] estaciones = nearestStations();
 
+        /*
         double weights[] = new double[3];
         double weightSum = 0;
+
         for (int i = 0; i < 3; i++) {
             float results[] = new float[3];
             if (nearestS[i] != null) {
@@ -236,11 +255,13 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
+
         //Normalize weights
         for (int i = 0; i < 3; i++) {
             if (weightSum > 0)
                 weights[i] /= weightSum;
         }
+        */
 
         for(int i=0;i<3;i++)
         {
